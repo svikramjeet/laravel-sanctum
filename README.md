@@ -47,7 +47,8 @@ Laravel sanctum with vue(for testing cors and working)
 ## Sanctum Installation setps
 
 
-* https://laravel.com/docs/7.x/sanctum#installation
+* [https://laravel.com/docs/7.x/sanctum#installation](url){:target="_blank"}
+
 
 ## Changes in default Laravel
 
